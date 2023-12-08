@@ -2,8 +2,8 @@
 class zeyhu77:
     def __init__(self):
         self.age = 15
-        self.programming_languages = ["Java", "Skript", "Javascript", "Python"]
         self.projects = ["vastcode.pl", "leanmc.pl"]
+        self.programming_languages = ["Java", "Skript", "Javascript", "Python"]
 
         self.nationality = "Polish"
         self.languages = ["Polish", "English"]
