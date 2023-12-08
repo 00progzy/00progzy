@@ -1,14 +1,14 @@
 ```python
 class zeyhu77:
-    def __init__():
-        
-        age = 15
-        programming = ["Java", "Skript", "Javascript", "Python"]
+    def __init__(self):
+        self.age = 15
+        self.programming_languages = ["Java", "Skript", "Javascript", "Python"]
+        self.projects = ["vastcode.pl", "leanmc.pl"]
 
-        nationality = "Polish"
-        languages = ["Polish", "English"]
+        self.nationality = "Polish"
+        self.languages = ["Polish", "English"]
 
-        discord = {
+        self.discord = {
             "username": "zeyhu77",
             "server": "discord.gg/YFaRNqtPYX"
         }
