@@ -2,7 +2,7 @@
 class zeyhu77:
     def __init__(self):
         self.age = 15
-        self.projects = ["vastcode.pl", "leanmc.pl"]
+        self.projects = None
         self.programming_languages = ["Java", "Skript", "Javascript", "Python"]
 
         self.nationality = "Polish"
@@ -10,6 +10,6 @@ class zeyhu77:
 
         self.discord = {
             "username": "zeyhu77",
-            "server": "discord.gg/YFaRNqtPYX"
+            "server": None
         }
 ```
