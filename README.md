@@ -3,7 +3,7 @@ class zeyhu77:
     def __init__(self):
         self.age = 15
         self.projects = None
-        self.programming_languages = ["Java", "Skript", "Javascript", "Python"]
+        self.programming_languages = ["Javascript", "Python"]
 
         self.nationality = "Polish"
         self.languages = ["Polish", "English"]
