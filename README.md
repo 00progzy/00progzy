@@ -1,5 +1,5 @@
 ```python
-class zeyhu77:
+class 00progzy:
     def __init__(self):
         self.age = 15
         self.projects = ["vanish.fun"]
