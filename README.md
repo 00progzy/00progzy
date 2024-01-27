@@ -1,15 +1,15 @@
 ```python
-class 00progzy:
+class szczuras:
     def __init__(self):
         self.age = 15
-        self.projects = ["vanish.fun"]
-        self.programming_languages = ["Javascript", "Python"]
+        self.projects = ["szczuras.lol"]
+        self.programming_languages = ["Python", "JavaScript"]
 
         self.nationality = "Polish"
         self.languages = ["Polish", "English"]
 
         self.discord = {
-            "username": "00progzy",
-            "server": "https://discord.gg/y7VDPCaZuM"
+            "username": "wowszczuras",
+            "server": "https://szczuras.lol/discord"
         }
 ```
